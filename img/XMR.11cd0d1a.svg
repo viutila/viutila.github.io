@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/crypto/XMR</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/crypto/XMR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons8-monero" transform="translate(12.000000, 12.000000)" fill-rule="nonzero">
+            <path d="M13,0 C5.83101209,0 0,5.83101209 0,13 C0,14.344599 0.214164261,15.6737433 0.622622,16.954314 L5.08695652,16.954314 L5.08695652,7.34561835 L13,15.360224 L20.9130435,7.34561835 L20.9130435,16.954314 L25.3751697,16.954314 C25.7858357,15.6737433 26,14.344599 26,13 C26,5.83101209 20.1689879,0 13,0 Z" id="Path" fill="#FF6600"></path>
+            <path d="M7.34782609,12.8542802 L7.34782609,19.2151836 L1.57863465,19.2151836 L1.74422583,19.5 C4.0625,23.5095109 8.37669809,26 13,26 C17.6233019,26 21.9375,23.5095109 24.2557742,19.5 L24.4213653,19.2151836 L18.6521739,19.2151836 L18.6521739,12.8542802 L13,18.579314 L7.34782609,12.8542802 Z" id="Path" fill="#4C4C4C"></path>
+        </g>
+    </g>
+</svg>

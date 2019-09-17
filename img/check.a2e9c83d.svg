@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>graphic/check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100.000101%" x2="100%" y2="100.000101%" id="linearGradient-1">
+            <stop stop-color="#1DA3FB" offset="0%"></stop>
+            <stop stop-color="#528CFF" offset="33%"></stop>
+            <stop stop-color="#45D6A6" offset="70.7216005%"></stop>
+            <stop stop-color="#18CC54" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-30.0%" y="-30.0%" width="160.0%" height="160.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <circle id="path-3" cx="80" cy="80" r="40"></circle>
+        <filter x="-40.0%" y="-35.0%" width="180.0%" height="180.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.21375   0 0 0 0 0.2775   0 0 0 0 0.33  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="37.5%" x2="100%" y2="62.5000251%" id="linearGradient-5">
+            <stop stop-color="#1DA3FB" offset="0%"></stop>
+            <stop stop-color="#528CFF" offset="33%"></stop>
+            <stop stop-color="#45D6A6" offset="70.7216005%"></stop>
+            <stop stop-color="#18CC54" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="graphic/check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill-opacity="0.2" fill="url(#linearGradient-1)" filter="url(#filter-2)" cx="80" cy="80" r="60"></circle>
+        <circle id="Oval" fill-opacity="0.2" fill="url(#linearGradient-1)" transform="translate(80.000000, 80.000000) rotate(-360.000000) translate(-80.000000, -80.000000) " cx="80" cy="80" r="50"></circle>
+        <g id="Oval" transform="translate(80.000000, 80.000000) rotate(-360.000000) translate(-80.000000, -80.000000) ">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+        </g>
+        <g id="Path" transform="translate(58.000000, 52.000000)" stroke="url(#linearGradient-5)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+            <polyline transform="translate(22.000000, 22.000000) rotate(-45.000000) translate(-22.000000, -22.000000) " points="42 32 2 32 2 12 2 12"></polyline>
+        </g>
+    </g>
+</svg>

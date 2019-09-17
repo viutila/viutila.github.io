@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>graphic/mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.198856904 119.75485 123.176016 119.75485 61.6830231 74.9124464"></polygon>
+        <filter x="-8.1%" y="-26.8%" width="116.3%" height="144.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.21375   0 0 0 0 0.2775   0 0 0 0 0.33  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="graphic/mail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="letter-flat-vector-icon" transform="translate(18.000000, 20.000000)">
+            <path d="M0.198856904,38.7048927 C0.198856904,38.7048927 44.7396881,9.01545064 53.4681043,2.88309013 C62.2074238,-3.24927039 70.1689689,3.06643777 70.1689689,3.06643777 L123.176016,38.7048927 L123.176016,119.75485 L0.198856904,119.75485 L0.198856904,38.7048927" id="Fill-7" fill="#1DA3FB"></path>
+            <polygon id="Fill-9" fill="#EBEEF1" points="14.867539 84.5835193 108.497988 84.5835193 108.497988 13.8226609 14.867539 13.8226609"></polygon>
+            <polygon id="Fill-10" fill-opacity="0.4" fill="#9AABB8" points="21.9043735 23.5795711 48.4618947 23.5795711 48.4618947 21.4109871 21.9043735 21.4109871"></polygon>
+            <polygon id="Fill-11" fill-opacity="0.4" fill="#9AABB8" points="21.9152769 38.0094416 101.620551 38.0094416 101.620551 35.8460086 21.9152769 35.8460086"></polygon>
+            <polygon id="Fill-12" fill-opacity="0.4" fill="#9AABB8" points="21.900739 47.6805145 101.605494 47.6805145 101.605494 45.5170815 21.900739 45.5170815"></polygon>
+            <polygon id="Fill-13" fill-opacity="0.4" fill="#9AABB8" points="21.885682 57.3515883 101.586283 57.3515883 101.586283 55.1840343 21.885682 55.1840343"></polygon>
+            <polygon id="Fill-14" fill-opacity="0.4" fill="#9AABB8" points="21.8664713 67.0236913 101.566553 67.0236913 101.566553 64.8551073 21.8664713 64.8551073"></polygon>
+            <polyline id="Fill-15" fill="#6FC1F7" points="0.198856904 38.7048927 58.1440971 77.496824 8.9085816 119.75485 0.198856904 119.75485 0.198856904 38.7048927"></polyline>
+            <polyline id="Fill-16" fill="#6FC1F7" points="123.176016 38.7048927 65.4644196 77.6652361 117.781438 119.75485 123.176016 119.75485 123.176016 38.7048927"></polyline>
+            <g id="Fill-18">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#46B1F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
