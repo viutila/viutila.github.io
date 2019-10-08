@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>edit_circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="會員專區" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.會員/個人設定" transform="translate(-436.000000, -404.000000)">
+            <g id="content" transform="translate(120.000000, 152.000000)">
+                <g id="privacy" transform="translate(0.000000, 92.000000)">
+                    <g id="Group" transform="translate(219.000000, 72.000000)">
+                        <g id="Icon/edit/circle" transform="translate(97.000000, 88.000000)">
+                            <g id="pencil">
+                                <circle id="Oval" stroke="#9AABB8" fill="#FFFFFF" cx="12" cy="12" r="11.5"></circle>
+                                <path d="M17.70416,8.6356 L16.5644,9.77536 L14.24432,7.45544 L13.36416,8.3356 L15.68424,10.65568 L9.99368,16.34576 L7.67376,14.02608 L6.7936,14.90624 L9.11352,17.22616 L8.54648,17.7932 L8.53568,17.7824 C8.4728,17.88592 8.37056,17.96144 8.24912,17.9884 L6.08568,18.4708 C6.05328,18.47808 6.02032,18.4816 5.98776,18.4816 C5.86968,18.4816 5.75496,18.43512 5.66992,18.34984 C5.5608,18.24112 5.51536,18.08408 5.54896,17.9336 L6.03112,15.7708 C6.05832,15.64944 6.134,15.54696 6.23736,15.48424 L6.2264,15.47328 L15.384,6.31528 C15.51824,6.18128 15.73632,6.18128 15.87056,6.31568 L17.70432,8.14904 C17.83856,8.28328 17.83856,8.50136 17.70416,8.6356 Z" id="Path" fill="#374754" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
